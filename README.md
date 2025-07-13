@@ -22,8 +22,3 @@ The program uses input validation to prevent infinite loops or crashes due to in
 - Looping construct using `while`
 - Calculations of basic statistics
 - Clean and clear console output
-
----
-
-## 📜 Pseudocode
-
